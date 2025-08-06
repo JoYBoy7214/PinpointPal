@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LocReminder</string>
+    <string name="title_activity_main">LocReminder</string>
+    <string name="package_name">com.LocReminder.app</string>
+    <string name="custom_url_scheme">com.LocReminder.app</string>
+</resources>
