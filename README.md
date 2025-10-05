@@ -1,9 +1,9 @@
 # PinpointPal
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/<JoYBoy7214>/<PinpointPal>) 
-![GitHub last commit](https://img.shields.io/github/last-commit/<JoYBoy7214>/<PinpointPal>)
-![GitHub issues](https://img.shields.io/github/issues/<JoYBoy7214>/<PinpointPal>)
-![GitHub license](https://img.shields.io/github/license/<JoYBoy7214>/<PinpointPal>)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/JoYBoy7214/PinpointPal) 
+![GitHub last commit](https://img.shields.io/github/last-commit/JoYBoy7214/PinpointPal)
+![GitHub issues](https://img.shields.io/github/issues/JoYBoy7214/PinpointPal)
+![GitHub license](https://img.shields.io/github/license/JoYBoy7214/PinpointPal)
 
 **Location-Based Social Navigation App**  
 A full-stack social navigation platform for real-time location sharing and location-based reminders.
@@ -36,7 +36,7 @@ A full-stack social navigation platform for real-time location sharing and locat
 
 ```bash
 # Clone the repository
-git clone <https://github.com/JoYBoy7214/PinpointPal.git>
+git clone https://github.com/JoYBoy7214/PinpointPal.git
 cd <frontend_folder>
 npm install
 npm start
