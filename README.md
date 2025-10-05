@@ -37,7 +37,7 @@ A full-stack social navigation platform for real-time location sharing and locat
 ```bash
 # Clone the repository
 git clone https://github.com/JoYBoy7214/PinpointPal.git
-cd <frontend_folder>
+cd frontend
 npm install
 npm start
 ```
@@ -45,7 +45,7 @@ npm start
 ### Backend
 
 ```bash
-cd <backend_folder>
+cd backend
 go run main.go
 ```
 
